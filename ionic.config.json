@@ -1,0 +1,7 @@
+{
+  "name": "kumoapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
